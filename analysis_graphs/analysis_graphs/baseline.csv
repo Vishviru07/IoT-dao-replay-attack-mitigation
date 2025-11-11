@@ -1,0 +1,4 @@
+pdr,tx,rx,delay_ms,ctrl_tx,ctrl_rx,ctrl_dropped,scenario
+0.995257,3584,3567,5.31939,0,0,0,RPL
+0.993304,3584,3560,12.8934,66501,5941,0,InsecRPL
+0.994699,3584,3565,5.86399,970,655,313,SecRPL
