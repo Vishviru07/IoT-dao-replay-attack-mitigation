@@ -2,7 +2,6 @@
 
 [![NS-3](https://img.shields.io/badge/NS--3-3.45-blue.svg)](https://www.nsnam.org/)
 [![IoT Security](https://img.shields.io/badge/IoT-Security-red.svg)](https://www.rfc-editor.org/rfc/rfc6550)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > A lightweight and real-time mitigation framework for **DAO replay and flooding attacks** in RPL-based IoT networks.  
 > Built on NS-3 with a **sliding-window rate detector** and **adaptive cross-layer feedback** mechanism.
