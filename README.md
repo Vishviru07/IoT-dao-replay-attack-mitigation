@@ -99,7 +99,7 @@ The proposed defense introduces a **centralized mitigation logic** at the DODAG 
 
 ```bash
 # Clone the repository
-git clone https://github.com/<yourusername>/rpl-dao-attack-mitigation.git
+git clone https://github.com/<yourusername>/IoT-dao-replay-attack-mitigation.git
 
 # Copy to NS-3 scratch folder
 cp rpl_dao_attack_mitigation.cc ~/ns-allinone-3.45/ns-3.45/scratch/
